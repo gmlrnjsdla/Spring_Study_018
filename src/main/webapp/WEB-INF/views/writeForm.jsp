@@ -14,7 +14,7 @@
 		<form action="write">
 			<tr height="50">
 				<th bgcolor="pink">글쓴이</th>
-				<td><input type="text" name="mwrite" size="60"></td>
+				<td><input type="text" name="mwriter" size="60"></td>
 			</tr>
 			<tr height="50">
 				<th bgcolor="pink">한 줄 쓰기</th>

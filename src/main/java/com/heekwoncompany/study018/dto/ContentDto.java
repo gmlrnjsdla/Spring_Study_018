@@ -1,4 +1,4 @@
-package com.heekwoncompany.dto;
+package com.heekwoncompany.study018.dto;
 
 public class ContentDto {
 	
